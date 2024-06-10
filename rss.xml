@@ -3,22 +3,22 @@
   <channel>
     <title>The Graveyard Shift</title>
     <description>The Graveyard Shift is a local band based out of Bay St. Louis, MS</description>
-    <link>https://graveyardshift.band</link>
+    <link>https://josephfknight.github.io</link>
     <language>en</language>
     <generator>Arise</generator>
     <image>
-      <url>https://graveyardshift.band/config/favicon/favicon.ico</url>
+      <url>https://josephfknight.github.io/config/favicon/favicon.ico</url>
       <title>The Graveyard Shift</title>
-      <link>https://graveyardshift.band</link>
+      <link>https://josephfknight.github.io</link>
     </image>
-    <atom:link href="https://graveyardshift.band/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://josephfknight.github.io/rss.xml" rel="self" type="application/rss+xml"/>
         <ttl>60</ttl>
-<lastBuildDate>Mon, 10 Jun 2024 16:30:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Jun 2024 16:35:44 +0000</lastBuildDate>
         <item>
         <title>Matt Kavanaugh</title>
         <dc:creator>Joseph Knight</dc:creator>
         <description>I saw Matt Kavanaugh at a grocery store in Charlotte yesterday.</description>
-        <link>https://graveyardshift.band/posts/matt-kavanaugh/</link>
+        <link>https://josephfknight.github.io/posts/matt-kavanaugh/</link>
         <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
         </item>
 </channel>
