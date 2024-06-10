@@ -1,12 +1,12 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Bash Static Site Generator"
+Title:: "The Graveyard Shift"
 
-Author:: "Spectra Secure"
-Description:: "Arise is the most polished cloud-native static site generator written in Bash."
+Author:: "The Graveyard Shift"
+Description:: "The Graveyard Shift is a local band based out of Bay St. Louis, MS"
 Language:: "en"
-Thumbnail:: "arise-icon.png"
-Published Date:: "2022-09-17"
-Modified Date:: "2022-09-17"
+Thumbnail:: "tgs-icon.png"
+Published Date:: "2024-06-10"
+Modified Date:: "2024-06-10"
 
 content_header:: "false"
 rss_hide:: "true"

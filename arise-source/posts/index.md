@@ -1,12 +1,12 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Index: Posts"
+Title:: "Posts"
 
 Author:: ""
-Description:: "A collection of sample posts build with Arise"
+Description:: "A collection of posts from The Graveyard Shift"
 Language:: "en"
 Thumbnail:: ""
-Published Date:: ""
-Modified Date:: ""
+Published Date:: "2024-06-10"
+Modified Date:: "2024-06-10"
 
 toc:: "true"
 content_header:: "false"
